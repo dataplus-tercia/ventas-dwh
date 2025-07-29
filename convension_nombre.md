@@ -1,6 +1,6 @@
 # **Convenciones de nombres**
 
-Este documento describe las convenciones de nombres utilizadas para los esquemas, tablas, vistas, columnas y otros objetos del almacén de datos.
+Este documento describe las convenciones de nombres utilizadas para los esquemas, tablas, vistas, columnas y otros objetos para el Data Warehouse.
 
 ## **Contenido**
 
@@ -21,7 +21,7 @@ Este documento describe las convenciones de nombres utilizadas para los esquemas
 - **Idiona**: Utilice el inglés para todos los nombres.
 - **Evitar palabras reservadas**: No utilice palabras reservadas de SQL como nombres de objetos.
 
-## **Table Naming Conventions**
+## **Convecion de nombre en tablas**
 
 ### **Bronze Rules**
 - Todos los nombres deben empezar por el nombre del sistema fuente, y los nombres de las tablas deben coincidir con sus nombres originales sin renombrar.
